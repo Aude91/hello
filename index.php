@@ -14,7 +14,7 @@ $resultat = getAllAnnonces();
     <title>Document</title>
     <style>
         li{
-            list-style: none;
+            list-style: none; text-decoration: underline;
         }
     </style>
 </head>
