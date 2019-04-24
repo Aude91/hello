@@ -14,4 +14,8 @@ function getFirstAnnonce(){
     return $first ;
 
 }
+function deleteAnnonce()
+{
+    return;
+}
 ?>
